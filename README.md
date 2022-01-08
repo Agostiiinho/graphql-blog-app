@@ -1,1 +1,1 @@
-# Nhttps://graphql-blog-app.vercel.app/
+# https://graphql-blog-app.vercel.app/
